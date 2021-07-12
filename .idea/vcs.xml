@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/captcha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony_todo_test_task/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony_todo_test_task/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wordpress_test_task" vcs="Git" />
+  </component>
+</project>
